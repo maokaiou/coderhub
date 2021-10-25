@@ -1,0 +1,24 @@
+{
+  "name": "coderhub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maokaiou/coderhub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maokaiou/coderhub/issues"
+  },
+  "homepage": "https://github.com/maokaiou/coderhub#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
